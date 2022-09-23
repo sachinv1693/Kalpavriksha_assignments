@@ -1,0 +1,13 @@
+C:\Users\sachin.vaze\source\repos\myCSharpApp\bin\Debug\netcoreapp3.1\myCSharpApp.exe
+C:\Users\sachin.vaze\source\repos\myCSharpApp\bin\Debug\netcoreapp3.1\myCSharpApp.deps.json
+C:\Users\sachin.vaze\source\repos\myCSharpApp\bin\Debug\netcoreapp3.1\myCSharpApp.runtimeconfig.json
+C:\Users\sachin.vaze\source\repos\myCSharpApp\bin\Debug\netcoreapp3.1\myCSharpApp.runtimeconfig.dev.json
+C:\Users\sachin.vaze\source\repos\myCSharpApp\bin\Debug\netcoreapp3.1\myCSharpApp.dll
+C:\Users\sachin.vaze\source\repos\myCSharpApp\bin\Debug\netcoreapp3.1\myCSharpApp.pdb
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.csprojAssemblyReference.cache
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.AssemblyInfoInputs.cache
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.AssemblyInfo.cs
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.dll
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.pdb
+C:\Users\sachin.vaze\source\repos\myCSharpApp\obj\Debug\netcoreapp3.1\myCSharpApp.genruntimeconfig.cache

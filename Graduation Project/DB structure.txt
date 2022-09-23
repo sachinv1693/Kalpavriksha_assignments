@@ -1,0 +1,29 @@
+Client ->
+	Client ID
+	Client IP/PORT
+	Node ID
+	Task ID
+
+Task ->
+	Task ID
+	Node ID
+	Status
+	CreatedAt
+	End At
+	Task Size
+	Excecution Time
+
+Manager ->
+	Node ID
+	Client ID
+	Task ID
+	Queue Info (Queue Name, Queue Address, Queue size)
+	Error Logs
+
+Node ->
+	Node ID
+	Task ID
+	Storage
+	isAvailable
+	Node IP/PORT
+	Error Logs
